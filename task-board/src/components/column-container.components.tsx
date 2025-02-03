@@ -61,7 +61,7 @@ const ColumnContainerComponent = ({
       <div
         ref={setNodeRef}
         style={style}
-        className="bg-slate-200 w-[350px] h-[500px] max-h-[500px] rounded-lg flex flex-col "
+        className="bg-slate-200 -5 w-[350px] h-[500px] max-h-[500px] rounded-lg flex flex-col "
       >
         <div
           onClick={() => {

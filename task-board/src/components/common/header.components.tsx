@@ -3,7 +3,7 @@ import img from "../../assets/maple.png";
 const MapleHeaderComponent = () => {
   return (
     <>
-      <nav className="bg-slate-200  ">
+      <nav className="bg-slate-200   ">
         <div className="max-w-screen-xl px-4 mx-auto 2xl:px-0 py-4">
           <div className="flex flex-wrap items-center justify-evenly md:justify-between">
             <a
