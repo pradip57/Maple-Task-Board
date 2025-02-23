@@ -42,6 +42,7 @@ const TaskBoard = () => {
   }, [tasks]);
 
   const columnId = useMemo(() => column.map((col) => col.id), [column]);
+  console.log(columnId)
 
   const createTask = (columnId: string) => {
     const newTask: Task = {

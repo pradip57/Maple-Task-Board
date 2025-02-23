@@ -16,9 +16,9 @@ const MapleHeaderComponent = () => {
             <p className="block py-2  text-red-700 rounded font-bold text-2xl">
               TASK BOARD
             </p>
-            <p className="block py-2  text-red-700 rounded font-bold text-2xl">
-              INTERNSHIP TASK
-            </p>
+            {/* <p className="block py-2  text-red-700 rounded font-bold text-2xl">
+              
+            </p> */}
           </div>
         </div>
       </nav>
